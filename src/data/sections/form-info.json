@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "title": "Let's Talk.",
+  "email": "info@chronoverge.com",
+  "phone": "+63 917 145 7554",
+  "location": {
+    "first": "Dawis Street, Tabunoc, Talisay City",
+    "second": "Cebu, Philippines"
+  }
+}
